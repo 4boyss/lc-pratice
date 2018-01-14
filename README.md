@@ -1,4 +1,5 @@
 # lc-pratice
+It is a pratice to understand lc
 
 ## Todo
     - Membership
@@ -8,3 +9,6 @@
     - User 
         - GET `/api/v1/users/me`
         - PUT `/api/v1/users/me`
+
+## Reference
+ - [https://leancloud.cn/docs/leanstorage_guide-js.html#hash799084270](https://leancloud.cn/docs/leanstorage_guide-js.html#hash799084270)
